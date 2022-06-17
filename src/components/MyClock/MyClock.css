@@ -1,0 +1,7 @@
+#myclock {
+  margin: 5px;
+}
+.clocks {
+  border: 2px dashed grey;
+  border-radius: 5px;
+}

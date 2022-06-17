@@ -1,0 +1,18 @@
+.maindiv {
+  padding: 5px;
+}
+.clocks {
+  border: 2px dashed grey;
+  border-radius: 5px;
+}
+.delete {
+  color: red;
+  font-weight: bold;
+}
+.edit {
+  color: orange;
+  font-weight: bold;
+}
+.cntrl {
+  float: right;
+}
