@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/track-zone/static/css/main.c38d045d.css",
+    "main.js": "/track-zone/static/js/main.fb59f5c6.js",
+    "static/js/453.ab4fa1eb.chunk.js": "/track-zone/static/js/453.ab4fa1eb.chunk.js",
+    "index.html": "/track-zone/index.html",
+    "main.c38d045d.css.map": "/track-zone/static/css/main.c38d045d.css.map",
+    "main.fb59f5c6.js.map": "/track-zone/static/js/main.fb59f5c6.js.map",
+    "453.ab4fa1eb.chunk.js.map": "/track-zone/static/js/453.ab4fa1eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c38d045d.css",
+    "static/js/main.fb59f5c6.js"
+  ]
+}
